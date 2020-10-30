@@ -8,7 +8,7 @@
 8    <uses-sdk
 9        android:minSdkVersion="9"
 9-->C:\Users\yongqiang\workspace\androidNativeActivity\src\x86Main\AndroidManifest.xml
-10        android:targetSdkVersion="28" />
+10        android:targetSdkVersion="30" />
 10-->C:\Users\yongqiang\workspace\androidNativeActivity\src\x86Main\AndroidManifest.xml
 11
 12    <uses-permission android:name="android.permission.VIBRATE" />

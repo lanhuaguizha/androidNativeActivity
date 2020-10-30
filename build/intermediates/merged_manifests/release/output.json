@@ -1,1 +1,28 @@
-[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0","enabled":true,"outputFile":"androidNativeActivity-release-unsigned.apk","fullName":"release","baseName":"release","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"com.jetbrains.konan_activity2","split":"","minSdkVersion":"9"}}]
+{
+  "version": 1,
+  "applicationId": "com.jetbrains.konan_activity2",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "androidNativeActivity-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.jetbrains.konan_activity2",
+        "split": "",
+        "minSdkVersion": "9"
+      }
+    }
+  ]
+}

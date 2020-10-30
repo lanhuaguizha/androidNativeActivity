@@ -6,8 +6,9 @@
         <dependsOnModuleNames>androidNativeActivity:commonTest</dependsOnModuleNames>
         <sourceSets>
           <sourceSet>androidNativeActivity.arm32Main</sourceSet>
-          <sourceSet>androidNativeActivity.commonTest</sourceSet>
           <sourceSet>androidNativeActivity.commonMain</sourceSet>
+          <sourceSet>androidNativeActivity.commonTest</sourceSet>
+          <sourceSet>androidNativeActivity.x86Main</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <compilerSettings />

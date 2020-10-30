@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "outputFile": "C:\\Users\\yongqiang\\workspace\\androidNativeActivity\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/src/x86Main/res/values/strings.xml",
+                    "source": "C:\\Users\\yongqiang\\workspace\\androidNativeActivity\\src\\x86Main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

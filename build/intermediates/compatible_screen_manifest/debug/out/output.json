@@ -1,1 +1,6 @@
-[]
+{
+  "version": 1,
+  "applicationId": "com.jetbrains.konan_activity2",
+  "variantType": "BASE_APK",
+  "elements": []
+}

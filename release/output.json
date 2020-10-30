@@ -5,7 +5,7 @@
     "kind": "Directory"
   },
   "applicationId": "com.jetbrains.konan_activity2",
-  "variantName": "debug",
+  "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
@@ -14,7 +14,7 @@
       "versionCode": 1,
       "versionName": "1",
       "enabled": true,
-      "outputFile": "androidNativeActivity-debug.apk"
+      "outputFile": "androidNativeActivity-release.apk"
     }
   ]
 }

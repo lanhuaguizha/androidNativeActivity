@@ -5,9 +5,9 @@
       <configuration version="3" platform="Native (android_arm64) " allPlatforms="Native []/Native [android_arm64]" useProjectSettings="false" isTestModule="true" externalProjectId="androidNativeActivity">
         <dependsOnModuleNames>androidNativeActivity:commonTest</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>androidNativeActivity_commonTest</sourceSet>
           <sourceSet>androidNativeActivity_arm64Main</sourceSet>
           <sourceSet>androidNativeActivity_commonMain</sourceSet>
+          <sourceSet>androidNativeActivity_commonTest</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <compilerSettings />
