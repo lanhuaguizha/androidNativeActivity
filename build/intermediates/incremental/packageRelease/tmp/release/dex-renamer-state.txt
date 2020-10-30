@@ -1,0 +1,4 @@
+#Fri Oct 30 13:23:31 CST 2020
+base.0=/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

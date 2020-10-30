@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/src/x86Main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "50",
+                        "endOffsets": "101"
+                    }
+                }
+            ]
+        }
+    ]
+}

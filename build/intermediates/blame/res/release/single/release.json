@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/build/intermediates/res/merged/release/mipmap-hdpi_konan_activity.png.flat",
+        "source": "/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/src/x86Main/res/mipmap-hdpi/konan_activity.png"
+    },
+    {
+        "merged": "/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/build/intermediates/res/merged/release/mipmap-mdpi_konan_activity.png.flat",
+        "source": "/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/src/x86Main/res/mipmap-mdpi/konan_activity.png"
+    },
+    {
+        "merged": "/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/build/intermediates/res/merged/release/mipmap-xhdpi_konan_activity.png.flat",
+        "source": "/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/src/x86Main/res/mipmap-xhdpi/konan_activity.png"
+    },
+    {
+        "merged": "/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/build/intermediates/res/merged/release/mipmap-xxhdpi_konan_activity.png.flat",
+        "source": "/home/yongqiangtao/workspace/kotlin-native/samples/androidNativeActivity/src/x86Main/res/mipmap-xxhdpi/konan_activity.png"
+    }
+]
